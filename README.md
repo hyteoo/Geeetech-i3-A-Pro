@@ -3,6 +3,7 @@
 
 This repo contains the ported settings for the latest Marlin firmware
 Stock settings + minor tweaks
+I try to keep the config up to date, for earlier versions, check the revision history.
 
 # Installation, flashing
 * Get latest version of Arduino (tested with 1.8.3 but latest one should work fine)
