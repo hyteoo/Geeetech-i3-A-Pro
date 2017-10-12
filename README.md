@@ -1,8 +1,9 @@
 # Geeetech i3 A Pro
 ## Config files for the Marlin 1.1.5 firmware
 
-This repo contains the ported settings for the latest Marlin firmware
-Stock settings + minor tweaks
+This repo contains the ported settings for the latest Marlin firmware.
+Stock settings + minor tweaks.
+
 I try to keep the config up to date, for earlier versions, check the revision history.
 
 # Installation, flashing
