@@ -12,7 +12,7 @@ I try to keep the config up to date, for earlier versions, check the revision hi
 * Download config files from this repo and overwrite the ones in the Marlin firmware
 * Get the U8glib library from here: https://github.com/olikraus/U8glib_Arduino/releases. Currently latest version 1.19.1 works fine
 
-Compile, upload with Arduino IDE directly to the Geeetech GT2560 controller.
+Compile, upload with Arduino IDE (selecting "*Arduino/Genuino Mega or Mega 2560*" as board) directly to the Geeetech GT2560 controller.
 
 **Tip** It's highly recommended to clear the EEPROM values. This can be done **after** flashing the firmware in 2 ways:
 * by sending GCode: `M502` `M500` (Restore default settings + save to EEPROM)
